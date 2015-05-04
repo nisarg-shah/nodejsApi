@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My first blog application using M.E.A.N stack .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nisarg-shah/blog.git"
+  },
+  "author": "Nisarg Shah - unfoldd.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisarg-shah/blog/issues"
+  },
+  "homepage": "https://github.com/nisarg-shah/blog",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.11.0",
+    "lodash": "^2.4.1",
+    "method-override": "^2.3.1",
+    "mongoose": "^3.9.7",
+    "node-restful": "^0.1.17"
+  }
+}
